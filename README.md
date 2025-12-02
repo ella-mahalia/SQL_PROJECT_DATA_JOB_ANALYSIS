@@ -1,7 +1,7 @@
-#Tech Skills, Salaries & Job Trends
+# Tech Skills, Salaries & Job Trends
 
 
-##Skill-Based Salary Insights
+## Skill-Based Salary Insights
 Specialized and high-demand skills command higher salaries. Niche technologies like RingCentral, MongoDB, Lua, Solidity, and Objective-C often exceed $160k. Backend and data-related tools such as Node, Cassandra, Kafka, Scala, and Neo4j also show strong earning potential. Machine learning and AI frameworks (PyTorch, TensorFlow, Theano, MXNet, Hugging Face) reflect high market demand for advanced analytics, while tools like RShiny, dplyr, AirTable, Gatsby, and Vue indicate value in data analysis and full-stack development.
 
 **Job Titles, Salaries & Required Skills**
